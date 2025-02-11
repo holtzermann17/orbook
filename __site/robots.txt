@@ -1,4 +1,4 @@
-Sitemap: https://tlienart.github.io/FranklinTemplates.jl/sitemap.xml
+Sitemap: https://holtzermann17.github.io/orbook/sitemap.xml
 
 User-agent: *
 Disallow:

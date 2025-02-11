@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Open Research Book"
 website_descr = "Example website"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_url   = "https://holtzermann17.github.io/orbook/"
 +++
 
 <!--
